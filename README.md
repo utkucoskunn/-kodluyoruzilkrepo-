@@ -3,5 +3,18 @@
 
 ![1](https://user-images.githubusercontent.com/70485246/150645688-0ceb9107-9ba7-4a97-b230-39111cbf1545.jpg)
 
-Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+<h1>Installation</h1>
+<p>Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)</p>
+
+<h1>Usage</h1>
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+<h1>Linux için:</h1>
+
+<p>cd kodluyoruzilkrepo
+code .
+Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.</p>
+
+License
+MIT
